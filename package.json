@@ -8,7 +8,7 @@
     "start": "lite-server",
     "build": "webpack"
   },
-  "author": "",
+  "author": "Daniel(qiuzhanghua@icloud.com)",
   "license": "ISC",
   "dependencies": {
     "@types/react": "^16.9.2",
