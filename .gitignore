@@ -2,6 +2,7 @@ node_modules/
 dist/
 .gradle
 build/
+yarn.lock
 
 ### STS ###
 .apt_generated
